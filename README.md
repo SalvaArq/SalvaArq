@@ -2,14 +2,12 @@
 
 ### BIM Specialist | Revit | BIM Automation | Dynamo | Python | C#
 
-I am a BIM professional focused on Revit, BIM coordination and digital workflows, with a growing specialization in automation and programming for the AEC industry.
-
-My current work combines BIM modeling, coordination and Common Data Environment (CDE) management with the development of Dynamo and Python workflows to automate repetitive tasks and improve BIM processes.
+I am a BIM professional focused on Revit, BIM coordination and digital workflows, with a growing specialization in automation and programming for the AEC industry. My current work combines BIM modeling, coordination and Common Data Environment (CDE) management with the development of Dynamo and Python workflows to automate repetitive tasks and improve BIM processes.
 
 ### Technical Stack
-*BIM & AEC*: Revit, Autodesk Construction Cloud (ACC), Navisworks, BIM coordination, ISO 19650
-Automation & Programming: Dynamo, Python, Revit API, C#
-Data & Visualization: Power BI, SQL, Excel
+**BIM & AEC:** Revit, Autodesk Construction Cloud (ACC), Navisworks, BIM coordination, ISO 19650
+**Automation & Programming:** Dynamo, Python, Revit API, C#
+**Data & Visualization:** Power BI, SQL, Excel
 
 ### What I'm working on
 BIM Automation: Scripts and workflows designed to automate repetitive tasks in Autodesk Revit and improve BIM production efficiency.
