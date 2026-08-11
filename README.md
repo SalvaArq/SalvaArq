@@ -7,7 +7,7 @@ I am a BIM professional focused on Revit, BIM coordination and digital workflows
 ### Technical Stack
 **BIM & AEC:** Revit, Autodesk Construction Cloud (ACC), Navisworks, BIM coordination, ISO 19650 \
 **Automation & Programming:** Dynamo, Python, Revit API, C# \
-**Data & Visualization:** Power BI, SQL, Excel \
+**Data & Visualization:** Power BI, SQL, Excel 
 
 ### What I'm working on
 BIM Automation: Scripts and workflows designed to automate repetitive tasks in Autodesk Revit and improve BIM production efficiency.
